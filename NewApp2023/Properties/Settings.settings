@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NewApp2023.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerProduction" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://testdata.premierducts.com.au/</Value>
+    </Setting>
+    <Setting Name="ServerDev" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://testdata.premierducts.com.au/</Value>
+    </Setting>
+    <Setting Name="ServerLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://localhost:7052/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

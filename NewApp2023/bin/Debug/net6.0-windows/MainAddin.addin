@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<FabricationAddIns>
+	<AddIn Type="Application">
+		<Name>New Addin</Name>
+		<FullClassName>ClassLibrary.Command</FullClassName>
+		<Assembly>C:\Users\henrydang\Documents\New area\NewApp2023\ClassLibrary\bin\Debug\ClassLibrary.dll</Assembly>
+		<AddInId>B2E6C4DB-9CED-422F-BF5C-D9FADC677B67</AddInId>
+		<VendorId>Fabrication</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</FabricationAddIns>

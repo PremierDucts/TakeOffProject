@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{90C9C6B7-6246-4CC1-87A1-79641E8E3E70}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/FileUtilController.cs">
+    <Files>
+      <File FileName="Controllers/FileUtilController.cs" Line="32" Column="31" />
+      <File FileName="DBClient/DBConnection.cs" />
+      <File FileName="Data/DbContextClass.cs" />
+      <File FileName="Service/Interface/IFileService.cs" Line="4" Column="17" />
+      <File FileName="Service/FileService.cs" Line="102" Column="16" />
+      <File FileName="Controllers/AuthController.cs" />
+      <File FileName="Entities/Request/FileUploadModelRequest.cs" />
+      <File FileName="DTO/FileUploadDetails.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TakeOffAPI" expanded="True">
+            <Node name="TakeOffAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="FileUtilController.cs" selected="True" />
+              </Node>
+              <Node name="CSV Output" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="DBClient" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="Request" expanded="True" />
+              </Node>
+              <Node name="FileDownloads" expanded="True" />
+              <Node name="Service" expanded="True">
+                <Node name="Interface" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TakeOffAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Service/FileService.cs" line="27" column="19" endLine="27" endColumn="120" offsetX="-1" offsetY="-1" expression="filePathPath" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

@@ -1,0 +1,259 @@
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/appsettings.Development.json
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/appsettings.json
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.exe
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.deps.json
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.runtimeconfig.json
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.pdb
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Google.Protobuf.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/MySql.Data.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.IO.Pipelines.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Text.Json.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/ZstdSharp.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.csproj.AssemblyReference.cache
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.AssemblyInfoInputs.cache
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.AssemblyInfo.cs
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.MvcApplicationPartsAssemblyInfo.cs
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.MvcApplicationPartsAssemblyInfo.cache
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.TakeOffAPI.Microsoft.AspNetCore.StaticWebAssets.props
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.TakeOffAPI.props
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.TakeOffAPI.props
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.TakeOffAPI.props
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets.pack.json
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets.build.json
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets.development.json
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/scopedcss/bundle/TakeOffAPI.styles.css
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.csproj.CopyComplete
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/refint/TakeOffAPI.dll
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.pdb
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.genruntimeconfig.cache
+//Mac/Home/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/ref/TakeOffAPI.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.csproj.AssemblyReference.cache
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.AssemblyInfoInputs.cache
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.AssemblyInfo.cs
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.csproj.CoreCompileInputs.cache
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/refint/TakeOffAPI.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.pdb
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Properties/._launchSettings.json
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.exe
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.deps.json
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.runtimeconfig.json
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.pdb
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Google.Protobuf.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/MySql.Data.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.IO.Pipelines.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/ZstdSharp.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.TakeOffAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.TakeOffAPI.props
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.TakeOffAPI.props
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.TakeOffAPI.props
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/scopedcss/bundle/TakeOffAPI.styles.css
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.csproj.CopyComplete
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.genruntimeconfig.cache
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/ref/TakeOffAPI.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Humanizer.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.CodeDom.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/appsettings.json
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Properties/._launchSettings.json
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/appsettings.Development.json
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.deps.json
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.runtimeconfig.json
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/TakeOffAPI.pdb
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Google.Protobuf.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Humanizer.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/MySql.Data.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/MySqlConnector.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.CodeDom.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Text.Json.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/ZstdSharp.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/comerr64.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/gssapi64.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/k5sprt64.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/krb5_64.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win-x64/native/krbcc64.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.csproj.AssemblyReference.cache
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.AssemblyInfoInputs.cache
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.AssemblyInfo.cs
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.csproj.CoreCompileInputs.cache
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.TakeOffAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.TakeOffAPI.props
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.TakeOffAPI.props
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.TakeOffAPI.props
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/scopedcss/bundle/TakeOffAPI.styles.css
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.csproj.CopyComplete
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/refint/TakeOffAPI.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.pdb
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/TakeOffAPI.genruntimeconfig.cache
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/obj/Debug/net6.0/ref/TakeOffAPI.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Renci.SshNet.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/SshNet.Security.Cryptography.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/CsvHelper.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Serilog.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Serilog.AspNetCore.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Serilog.Extensions.Hosting.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Serilog.Extensions.Logging.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Serilog.Settings.Configuration.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Serilog.Sinks.Debug.dll
+/Volumes/[C] Windows 11/Users/henrydang/Documents/New area/NewApp2023/TakeOffAPI/TakeOffAPI/bin/Debug/net6.0/Serilog.Sinks.File.dll
